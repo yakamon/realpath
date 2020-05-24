@@ -1,3 +1,3 @@
-module github.com/yakamon/shconf/lib/realpath/cmd/realpath
+module github.com/yakamon/realpath/cmd/realpath
 
 go 1.14
